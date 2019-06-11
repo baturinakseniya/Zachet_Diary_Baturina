@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Дневник</string>
+    <string name="title_activity_settings">Настройки</string>
+
+    <!-- Messages -->
+    <string name="msg_approve">Принять</string>
+    <string name="msg_ok">Ок</string>
+    <string name="msg_cancel">Закрыть</string>
+    <string name="msg_check_delete">Точно хотите удалить?</string>
+    <string name="msg_check_general">Вы уверены?</string>
+    <string name="msg_check_save">Данные будут перезаписаны. Уверены что хотите продолжить?</string>
+    <string name="msg_check_cancel">Изменения не будут сохранены. Хотите продолжить?</string>
+    <string name="msg_unable_save">Невозможно сохранить данные: </string>
+
+    <!-- Text Preferences -->
+    <string name="text_title">Расмер шрифта в списке</string>
+    <string name="text_header">Настройки текста</string>
+    <string name="text_date">Размер шрифта даты</string>
+    <string name="text_editor">Размер шрифта редактора</string>
+    <string name="text_gravity">Выравнивание текста</string>
+
+    <!-- Text default values -->
+    <string name="editor_default_value">18</string>
+    <string name="date_default_value">14</string>
+    <string name="title_default_value">34</string>
+    <string name="text_default_gravity">ПО ЦЕНТРУ</string>
+</resources>

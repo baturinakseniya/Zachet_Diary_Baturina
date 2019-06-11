@@ -1,0 +1,37 @@
+<resources>
+    <!-- Text preference -->
+    <string-array name="title_text_entries">
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+    </string-array>
+
+    <!-- Text value preference -->
+    <string-array name="title_text_value">
+        <item>24</item>
+        <item>34</item>
+        <item>44</item>
+    </string-array>
+
+    <string-array name="date_text_values">
+        <item>12</item>
+        <item>14</item>
+        <item>18</item>
+    </string-array>
+
+    <string-array name="text_editor_value">
+        <item>16</item>
+        <item>18</item>
+        <item>22</item>
+    </string-array>
+
+    <string-array name="title_gravity_entries">
+        <item>По центру</item>
+        <item>Слева</item>
+    </string-array>
+
+    <string-array name="title_gravity_values">
+        <item>ПО ЦЕНТРУ</item>
+        <item>СЛЕВА</item>
+    </string-array>
+</resources>
